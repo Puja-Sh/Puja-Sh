@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="object-fit: cover; height:400px " width= "100%"   />
+![alt text](https://github.com/Puja-Sh/Puja-Sh/blob/main/hi-there.png?raw=true)
 </div>  
 
 
