@@ -1,6 +1,6 @@
-<div align="center">
+
 ![alt text](https://github.com/Puja-Sh/Puja-Sh/blob/main/hi-there.png?raw=true)
-</div>  
+
 
 
 ### <div align="center">Hello World, I'm Puja</div>  
