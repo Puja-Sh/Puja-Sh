@@ -7,8 +7,8 @@
 
 
 
-- 🌱 if(role == SDE || role == Frontend Developer) ### <bold>return true</bold>  
-- ⚡ Frontend Developer | Problem solving | Final year
+- 🌱 if (role == SDE || role == Frontend Developer)   return true;  
+- ⚡ Undergraduate final year | Looking for full-time role in IT field 
 - ⚡ Fun fact: I use tabs over spaces  
 
 
