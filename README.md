@@ -7,10 +7,10 @@
 
 
 
-- 👩‍💻 const role = "Frontend Develoepr"  
+- 👩‍💻 let role = "Frontend Develoepr"  
 - 🌱 const skills = ["Reactjs", "Nextjs", "JavaScript", "CSS", "Data Structure & algorithms"]
 - ⚡ const graduation = "Graduated in 2022, from HITK"
-- ⚡ const funFact: "I use tabs over spaces"  
+- ⚡ let funFact: "I use tabs over spaces"  
 
 <br/>  
 
